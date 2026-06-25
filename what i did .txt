@@ -1,0 +1,40 @@
+React js is a component based library
+
+real DOM vs Virtual DOM 
+
+jsx is java script + xml
+
+vite folder structure
+
+projectName
+        |-node_modules // contain necessary node_modules
+        |-public //we can put pictures icons etc inside this
+        |-src
+        |   |-assets // can put pic icons etc
+        |   |-components // put components inside this
+        |   |-App.css
+        |   |-App.jsx // main.jsx is the father of app.jsx
+        |   |-index.css
+        |   |-main.jsx // index.html is father of main.jsx
+        |
+        |.gitignore //file name that we dont want to publish on github
+        |enlist.config.js // set of rules that helps multiple coder to work on same project without collision or error
+
+
+
+
+props usage 
+function call in react 
+hooks
+
+usestate() is asyn fxn     prev      batch update
+
+
+input handling
+
+two way binding
+
+
+localstorage 
+
+useeffect
